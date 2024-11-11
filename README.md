@@ -8,29 +8,24 @@ The application captures two numeric values entered by the user, subtraction the
 
 ## Table of Contents
 
-- [Requisitos](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
+- [Requirements](#Requirements)
+- [Clone](#Clone)
+- [Contact](#Contact)
 
-## Requisitos
+## Requirements
 
-Antes de comenzar, asegúrate de tener instalados los siguientes programas:
-[Node.js] (versión recomendada: vX.X.X)
+Before you begin, make sure you have the following programs installed:
+[Node.js] (recommended version: v14.x)
 [Git]
 [Java 17]
-## Clonar el Repositorio
-
-Para clonar este repositorio, abre tu terminal y ejecuta el siguiente comando
+## Clone
+To clone this repository, open your terminal and run the following command
    ```bash
-   git clone https://github.com/nicoliberios/subtraction.git
-Navigate to the project directory:
-   ```bash
-   cd subtraction 
-Instalar las dependencias
-   ```bash
-   npm install
+   git clone https://github.com/nicoliberios/subtraction.gi
+   ```
 
 ## Contact
-Nicolas Liberio -- ingedesistemas24@gmail.com
+
+ Nicolas Liberio -- ingedesistemas24@gmail.com
 
 Link to the repository: https://github.com/nicoliberios/subtraction.git
